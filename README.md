@@ -3,7 +3,7 @@
 Active Link: https://to-do-list-seven-kohl-88.vercel.app/
 
 ## Demo
-![Live Preview](to-do-list_gif)
+![Live Preview](to-do-list_gif.gif)
   
 ## Overview
 A clean and responsive To-Do List application built using HTML, CSS, and vanilla JavaScript, designed to help users stay organized with an intuitive, interactive interface.
